@@ -6,7 +6,7 @@
 
 ## 🚀 What I am Up To:
   • 🕵 Currently applying, optimist to find a good position as a Frontend Developer  
-  • 💻 Coding my main projects such as [My F1](https://github.com/RezaeiArshad/My-F1) and Maped to give the edge over other candidates<br>
+  • 💻 Coding my main projects such as [My F1](https://github.com/RezaeiArshad/My-F1) and Maped to give me the edge over other candidates<br>
   [Check out my coding portfolio](https://my-portfolio-six-delta-41.vercel.app/)
 
 ## 🌐 Reach out to me:
