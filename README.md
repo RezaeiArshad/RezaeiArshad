@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Hello there👋, I'm Mehdi Rezaei</h1>
+<h1 align="center">Hello there👋, I'm Mehdi Rezaei</h1>
 
 
 # 💫 About Me:
