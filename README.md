@@ -8,6 +8,7 @@
   • 🕵 Currently applying, optimist to find a good position as a Frontend Developer  
   • 💻 Coding my main projects such as [My F1](https://github.com/RezaeiArshad/My-F1) and Maped to give me the edge over other candidates<br>
   [Check out my coding portfolio](https://my-portfolio-six-delta-41.vercel.app/)
+  [here's my resume](https://docs.google.com/document/d/1sYRBJXcJxSeZe9SYSQ7XLDCd79Dkqcx6-K792NC9oag/edit?usp=sharing&usp=embed_facebook)
 
 ## 🌐 Reach out to me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rezaeiarshad) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mehdirezaeiarshad@gmail.com) 
